@@ -11,11 +11,7 @@ Olá! Meu nome é Diego Sousa e este é o meu perfil do GitHub. Sou um estudante
 
 ## Projetos Destacados
 
-Aqui estão alguns projetos nos quais tenho trabalhado recentemente:
-
-- Nome do Projeto 1: Breve descrição do projeto.
-- Nome do Projeto 2: Breve descrição do projeto.
-- Nome do Projeto 3: Breve descrição do projeto.
+[![Minhas Linguagens](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 
 ## Estatísticas do GitHub
 
