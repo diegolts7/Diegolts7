@@ -27,8 +27,8 @@ Aqui estão alguns projetos nos quais tenho trabalhado recentemente:
 
 ## Redes Sociais
 
-Você também pode me encontrar no Twitter:
+Você também pode me encontrar no Instagram:
 
-- Twitter: [@diegolts7](https://twitter.com/diegolts7)
+- Intagram: [@diego_lts](https://www.instagram.com/diego_lts/)
 
 Sinta-se à vontade para explorar meus repositórios e entrar em contato comigo! 😊
