@@ -1,6 +1,6 @@
 <div align="center" style="display: flex; width: 400px; align-itens: center; justify-content: center; gap: .3rem; flex-wrap: wrap">
-
-## Hi, I'm Sousadev and coding is life! 👋
+    
+<h2>Hi, I'm Sousadev and coding is life! 👋</h2>
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=diegolts7&show_icons=true&theme=github_dark&layout=compact" alt="Estatisticas do Github" height="200px"/>
 
