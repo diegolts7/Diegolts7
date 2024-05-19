@@ -1,17 +1,9 @@
-# Bem-vindo ao meu perfil do GitHub! 👋
-
-Olá! Meu nome é Diego Sousa e este é o meu perfil do GitHub. Sou um estudante apaixonado por análise de dados e desenvolvimento Back End.
-
-## Sobre mim
-
-- 🔭 Atualmente estou trabalhando em projetos relacionados a análise de dados.
-- 🌱 Estou constantemente aprendendo sobre desenvolvimento Back End e análise de dados.
-- 💬 Pergunte-me sobre análise de dados, Python, ou qualquer coisa relacionada a Back End.
-- 📫 Como me alcançar: sousa.diego@academico.ifpb.edu.br
-
-## Estatísticas do GitHub
-
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=diegolts7&show_icons=true&theme=radical)
+## Hi, I'm Sousadev and coding is life! 👋
+<div>
+  
+<img src="https://github-readme-stats.vercel.app/api?username=diegolts7&show_icons=true&theme=radical" alt="Estatisticas do Github"/>
+<img src="https://github-readme-stats.vercel.app/api?username=diegolts7&show_icons=true&theme=radical" alt="Estatisticas do Github"/>
+</div>
 
 ## Redes Sociais
 
