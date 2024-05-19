@@ -1,15 +1,10 @@
+<div align="center" style="display: flex; width: 400px; align-itens: center; justify-content: center; gap: .3rem; flex-wrap: wrap">
+
 ## Hi, I'm Sousadev and coding is life! 👋
 
-<div style="display:flex; align-itens: center; justify-content: center; gap: 2rem; flex-wrap: wrap">
-  
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=diegolts7&show_icons=true&theme=github_dark&layout=compact" alt="Estatisticas do Github" height="200px"/>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=diegolts7&show_icons=true&theme=github_dark&layout=compact
-" height="200px"/>
-
-</div>
-
-<div style="width: 400px; margin:0 auto; text-align: center">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=diegolts7&show_icons=true&theme=github_dark&layout=compact" height="200px"/>
 
 ## Code in
 
@@ -24,8 +19,6 @@
 <img align="center" height="30" width="40" alt="nodejs-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
 
 ## Contact me
-
-<div align="center" style="display: flex; width: 400px; align-itens: center; justify-content: center; gap: .3rem; flex-wrap: wrap">
 
 <a href="https://www.linkedin.com/in/diego-sousa-972555221/" target="_blank">
     <img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
