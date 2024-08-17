@@ -21,11 +21,13 @@
 <a href="https://www.linkedin.com/in/diego-sousa-972555221/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="30" height="30"/>
 </a>
+
 <a href="mailto:diego7lts7@gmail.com" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Gmail_Icon.png" alt="Gmail" width="30" height="30"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Logo_Gmail_%282020%29.svg" alt="Gmail" width="30" height="30"/>
 </a>
+
 <a href="https://twitter.com/DiegoXlts" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/en/6/60/Twitter_Logo_as_of_2021.svg" alt="Twitter" width="30" height="30"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Logo_of_Twitter.svg" alt="Twitter" width="30" height="30"/>
 </a>
 
 
