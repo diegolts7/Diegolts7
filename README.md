@@ -2,8 +2,6 @@
     
 <h1>Hi, I'm SousaDev and coding is life! 👋</h1>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=diegolts7&show_icons=true&theme=github_dark&layout=compact" alt="Estatisticas do Github" height="200px"/>
-
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=diegolts7&show_icons=true&theme=github_dark&layout=compact" height="200px"/>
 
 ## Code in
@@ -21,15 +19,14 @@
 ## Contact me
 
 <a href="https://www.linkedin.com/in/diego-sousa-972555221/" target="_blank">
-    <img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="30" height="30"/>
-  </a>
-  <a href="mailto:diego7lts7@gmail.com" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Gmail" width="30" height="30"/>
-  </a>
-  <a href="https://twitter.com/DiegoXlts" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg" alt="Twitter" width="30" height="30"/>
-  </a>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="30" height="30"/>
+</a>
+<a href="mailto:diego7lts7@gmail.com" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Gmail_Icon.png" alt="Gmail" width="30" height="30"/>
+</a>
+<a href="https://twitter.com/DiegoXlts" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/en/6/60/Twitter_Logo_as_of_2021.svg" alt="Twitter" width="30" height="30"/>
+</a>
 
-</div>
 
 </div>
