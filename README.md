@@ -1,6 +1,6 @@
 <div align="center" style="display: flex; width: 400px; align-itens: center; justify-content: center; gap: .3rem; flex-wrap: wrap">
     
-<h2>Hi, I'm SousaDev and coding is life! 👋</h2>
+## Hi, I'm SousaDev and coding is life! 👋
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=diegolts7&show_icons=true&theme=github_dark&layout=compact" height="150px"/>
 
